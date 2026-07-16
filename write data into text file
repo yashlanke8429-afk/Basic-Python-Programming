@@ -1,0 +1,6 @@
+# 51. Create and write data into a text file
+file = open("sample.txt", "w")
+file.write("Hello, this is a sample file.")
+file.close()
+
+print("Data written successfully.")
