@@ -1,0 +1,8 @@
+# 46. Create and display a dictionary
+student = {
+    "Name": "Rahul",
+    "Age": 20,
+    "Course": "CSE"
+}
+
+print(student)
